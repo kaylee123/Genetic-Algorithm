@@ -6,7 +6,7 @@ public class GeneticMain {
 		FileReader reader;
 		String str = "";
 		try {
-			reader = new FileReader("C:\\Users\\khpark\\Documents\\JAVA\\GeneticAlgorithm\\bin\\inputData.txt");
+			reader = new FileReader("inputData.txt");
 			
 			int ch;
 		
